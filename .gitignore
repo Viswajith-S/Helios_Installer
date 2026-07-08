@@ -1,0 +1,4 @@
+uploads/
+*.zip
+.env
+error_log
